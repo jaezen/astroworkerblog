@@ -1,6 +1,6 @@
 ## Welcome to the AstroWorker Blog
 
-I promise this will be more interesting thatn what it is now. 
+I promise this will be more interesting than what it is now. 
 
 You can use the [editor on GitHub](https://github.com/jaezen/astroworkerblog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
